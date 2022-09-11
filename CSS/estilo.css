@@ -1,0 +1,23 @@
+﻿^contentpage{ /*global para componente base*/
+    background-color: Red;
+}
+
+stacklayout{ /*componente da pagina*/
+    background-color: bisque;
+    margin: 20;
+}
+
+#lblTitulo{ /*componente especifico pelo nome*/
+    font-style: italic;
+    font-size: 25;
+    text-align: center;
+    color: gray;
+    font-family: Balinese;
+}
+
+button{
+    border-color: blueviolet;
+    border-width: 2;
+    background-color: blue;
+    color: white;
+}

@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSS.Android", "CSS.Android\CSS.Android.csproj", "{1A8D98F1-94BF-4A0E-9778-D930FE7E9B8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSS", "CSS\CSS.csproj", "{0A9A808E-8F4A-492A-A424-B1177B5C7317}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A8D98F1-94BF-4A0E-9778-D930FE7E9B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A8D98F1-94BF-4A0E-9778-D930FE7E9B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A8D98F1-94BF-4A0E-9778-D930FE7E9B8B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1A8D98F1-94BF-4A0E-9778-D930FE7E9B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A8D98F1-94BF-4A0E-9778-D930FE7E9B8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A8D98F1-94BF-4A0E-9778-D930FE7E9B8B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{0A9A808E-8F4A-492A-A424-B1177B5C7317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A9A808E-8F4A-492A-A424-B1177B5C7317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A9A808E-8F4A-492A-A424-B1177B5C7317}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0A9A808E-8F4A-492A-A424-B1177B5C7317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A9A808E-8F4A-492A-A424-B1177B5C7317}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A9A808E-8F4A-492A-A424-B1177B5C7317}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6B46281-8556-41A7-A1E9-C4410EC72532}
+	EndGlobalSection
+EndGlobal

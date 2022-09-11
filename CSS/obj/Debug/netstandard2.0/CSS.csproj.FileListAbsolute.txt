@@ -1,0 +1,16 @@
+C:\Users\lucas\source\repos\CSS\CSS\bin\Debug\netstandard2.0\CSS.deps.json
+C:\Users\lucas\source\repos\CSS\CSS\bin\Debug\netstandard2.0\CSS.dll
+C:\Users\lucas\source\repos\CSS\CSS\bin\Debug\netstandard2.0\ref\CSS.dll
+C:\Users\lucas\source\repos\CSS\CSS\bin\Debug\netstandard2.0\CSS.pdb
+C:\Users\lucas\source\repos\CSS\CSS\obj\Debug\netstandard2.0\CSS.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\CSS\CSS\obj\Debug\netstandard2.0\CSS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\CSS\CSS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\lucas\source\repos\CSS\CSS\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\lucas\source\repos\CSS\CSS\obj\Debug\netstandard2.0\estilo.css.g.cs
+C:\Users\lucas\source\repos\CSS\CSS\obj\Debug\netstandard2.0\CSS.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\CSS\CSS\obj\Debug\netstandard2.0\CSS.AssemblyInfo.cs
+C:\Users\lucas\source\repos\CSS\CSS\obj\Debug\netstandard2.0\CSS.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\CSS\CSS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\lucas\source\repos\CSS\CSS\obj\Debug\netstandard2.0\CSS.dll
+C:\Users\lucas\source\repos\CSS\CSS\obj\Debug\netstandard2.0\ref\CSS.dll
+C:\Users\lucas\source\repos\CSS\CSS\obj\Debug\netstandard2.0\CSS.pdb
